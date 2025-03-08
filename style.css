@@ -26,7 +26,7 @@ img{
 
 
 .singleImg{
-    padding: 20px;
+    padding: 10px;
     background-color: rgb(119, 115, 115);
 }
 
@@ -58,5 +58,6 @@ img{
 }
 
 .mainImg{
-    width: 500px;
+    width: 400px;
+    height: 250px;
 }
